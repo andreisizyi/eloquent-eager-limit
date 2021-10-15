@@ -5,7 +5,7 @@
     "authors": [
         {
             "name": "Andrei",
-            "email": ""
+            "email": "sdf@sdfsdf.sdf"
         }
     ],
     "require": {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Staudenmeir\\EloquentEagerLimit\\": "src/"
+            "Andreisizyi\\EloquentEagerLimit\\": "src/"
         }
     },
     "autoload-dev": {
